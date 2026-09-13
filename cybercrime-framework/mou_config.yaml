@@ -1,0 +1,18 @@
+institutions:
+  I4C:
+    purpose: "Cybercrime Coordination and Predictive Modeling"
+    legal_basis: "Law Enforcement Exemption under DPDP Act"
+    retention_days: 365
+    permitted_recipient_roles: ["Investigator", "Analyst", "Admin"]
+  
+  HDFC_Bank:
+    purpose: "Fraud Mitigation and Fund Blocking"
+    legal_basis: "Consent & Contractual Obligation"
+    retention_days: 90
+    permitted_recipient_roles: ["Nodal_Officer", "Fraud_Analyst"]
+    
+  SBI:
+    purpose: "Fraud Mitigation and Fund Blocking"
+    legal_basis: "Consent & Contractual Obligation"
+    retention_days: 90
+    permitted_recipient_roles: ["Nodal_Officer", "Fraud_Analyst"]

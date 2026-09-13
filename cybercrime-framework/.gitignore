@@ -1,0 +1,8 @@
+__pycache__
+cybercrime.db
+.env
+models/
+data/account_pool.json
+venv/
+*.pyc
+.pytest_cache/
